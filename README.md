@@ -10,7 +10,7 @@
 
 - **Exception Handler**
 
-  Added `ResourceNotFoundException` and `GlobalExceptionHandler` classes for more specific and accurate error/exception handling with the error details provided.
+  Added the `GlobalExceptionHandler` classes for more specific and accurate error/exception handling with the error details provided.
 
 - **Spring Security**
 
