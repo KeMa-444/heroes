@@ -2,7 +2,7 @@
 
 **Changes made:**
 
-- **Implemented Pagination**
+- **Pagination**
 
   Enabled the page-based pagination, which using the "pageNo" parameter to specify the desired page number, "pageSize" parameter to specify the number of elements shown per page, "sortBy" and "sortDir" parameters to determine how to sort the elements. The user can call the API with or without specify those parameters, if not specified, the API responds with the corresponding contents based on the default values of parameters:
 
